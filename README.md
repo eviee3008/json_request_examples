@@ -1,6 +1,6 @@
 # JSON_request_examples
 
-Welcome to the json_request_examples project! The objective of this project will be to highlight my ability in working with JSON data through the execution of API requests. In this project, I will use Python to execute JSON requests from publicly accessible sources. My aim to showcase my proficiency in handling real-time data, as I recognise it is a crucial skillset in the field of data analytics.
+Welcome to the json_request_examples project! The objective of this project will be to highlight my ability in working with JSON data through the execution of API requests. In this project, I will use Python to execute JSON requests from publicly accessible sources. My aim to showcase my proficiency in handling real-time data for data analysis tasks.
 
 ## Project Status
 
